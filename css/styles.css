@@ -601,7 +601,7 @@ input::placeholder {
   color: #ffffff;
 }
 .footer-btn {
-  display: inline-block;
+  display: flex;
 
   align-items: center;
   justify-content: center;
